@@ -43,3 +43,4 @@
 -   Separate file for controllers and services.
 
 -   You can design file structure.
+-   Deploy this microservice with `docker-compose` for extra score
