@@ -44,3 +44,8 @@
 
 -   You can design file structure.
 -   Deploy this microservice with `docker-compose` for extra score
+
+PS. 
+Sugest library
+- Express.js for server framework lib.
+- Prisma for ORM.
