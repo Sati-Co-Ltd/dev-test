@@ -40,10 +40,11 @@
 | followUp            | Date     |                 |
 | patientId           | uuid     | FK with Patient |
 
--   Separate file for controllers and services.
 
--   You can design file structure.
--   Deploy this microservice with `docker-compose` for extra score
+-  Separate file for controllers and services.
+-  You can design file structure.
+-  Deploy this microservice with `docker-compose` for extra score
+-  Push your repository on github and send the link to repo to contact@sati.co.th
 
 PS. 
 Sugest library
