@@ -47,6 +47,6 @@
 -  Push your repository on github and send the link to repo to contact@sati.co.th
 
 PS. 
-Sugest library
+Suggest library
 - Express.js for server framework lib.
 - Prisma for ORM.
